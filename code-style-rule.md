@@ -15,6 +15,8 @@ private修飾子: 省略せず、必ず明示的に private と記述するこ�
 
 1ファイル1クラス: 原則として、1つのファイルには1つのクラスのみを記述すること。ただし、そのクラスに密接に関連する Enum や struct は同一ファイル内に記述してよい。
 
+namespace: UnityのEditor拡張を自作する場合、namespaceは AyahaGraphicDevelopTools.機能名のようにすること (例: namespace AyahaGraphicDevelopTools.TimelineTools)
+
 3. 制御構造とフォーマット
 Enumの改行: Enumの要素を1行で書かず、1要素ごとに必ず改行して記述すること。
 
