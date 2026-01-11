@@ -1,0 +1,2 @@
+# Google-Antigravity-Rule
+GoogleのAntigravityに入れているルールをまとめたリポジトリ
